@@ -14,7 +14,7 @@
 
 [7. Practice and Resources](#7.-practice-and-resources)
 
-
+![Markdown](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTfXwY_1HFsyuMhX0ajaCCv_ZsKlUb9k0kA&s)
 
 Markdown is a lightweight markup language that’s easy to learn and perfect for blogging. Here’s a comprehensive guide to get you started:
 
