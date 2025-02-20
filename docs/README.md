@@ -1,7 +1,18 @@
 ## Table of Contents
+
 [1. Introduction to Markdown](#1.-introduction-to-markdown)
 
-[2. Basic Syntax](2.-basic-syntax)
+[2. Basic Syntax](#2.-basic-syntax)
+
+[3. Links and Images](#3.-links-and-images)
+
+[4. Blockquotes and Code](#4.-blockquotes-and-codes)
+
+[5. Tables](#5.-tables)
+
+[6. Advanced Features](#6.advanced-features)
+
+[7. Practice and Resources](#7.-practice-and-resources)
 
 
 
