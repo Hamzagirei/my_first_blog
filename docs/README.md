@@ -1,4 +1,8 @@
-[toc]
+## Table of Contents
+[1. Introduction to Markdown](#1.-introduction-to-markdown)
+[2. Basic Syntax](2.-basic-syntax)
+
+
 
 Markdown is a lightweight markup language that’s easy to learn and perfect for blogging. Here’s a comprehensive guide to get you started:
 
